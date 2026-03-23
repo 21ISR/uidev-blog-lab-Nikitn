@@ -26,6 +26,9 @@
 .image {
     max-width: 100%;
 }
+.blue-line {
+    
+}
 article {
     padding: 20px 12px;
     border-bottom: 1px solid #b8b5b5;
@@ -36,5 +39,4 @@ p{
 footer {
     text-align: left;
     border-top: 2px solid #ffffff;
-
 }
